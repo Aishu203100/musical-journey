@@ -1,0 +1,16 @@
+body{
+    background-color:#ff3da1;
+}
+#timer_span
+{
+    float:right;
+    margin-right:500px;
+}
+#draw_sketch
+{
+    color:aquamarine;
+}
+p, span{
+    font-size:25px;
+    font-family: 'Geostar', cursive;
+}
